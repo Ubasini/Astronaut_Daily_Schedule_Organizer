@@ -1,0 +1,9 @@
+Configuration Manager
+Pattern: Singleton
+
+Description: This application provides a configuration manager that ensures only one instance of the configuration settings is used application-wide.
+
+Files:
+
+ConfigurationManager.java
+Main.java
