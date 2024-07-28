@@ -1,5 +1,5 @@
 Configuration Manager
-Pattern: Singleton
+Pattern: Singleton(Creational)
 
 Description: This application provides a configuration manager that ensures only one instance of the configuration settings is used application-wide.
 
