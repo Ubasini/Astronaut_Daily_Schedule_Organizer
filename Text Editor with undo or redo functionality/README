@@ -1,0 +1,14 @@
+Text Editor with Undo/Redo Functionality
+Pattern: Command (Behavioral)
+
+Description: This application is a simple text editor that allows users to perform undo and redo operations on their text input.
+
+Files:
+
+TextEditor.java
+Command.java
+UndoableCommand.java
+UndoManager.java
+TextEditorApplication.java
+InsertTextCommand.java
+DeleteTextCommand.java
