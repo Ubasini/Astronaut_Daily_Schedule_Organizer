@@ -1,5 +1,5 @@
 Weather Monitoring Application
-Pattern: Observer
+Pattern: Observer(Behavioural)
 
 Description: This application simulates a weather monitoring system where multiple display units (e.g., temperature display, humidity display) are updated in real-time whenever there is a change in the weather.
 
