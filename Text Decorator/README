@@ -1,0 +1,14 @@
+Text Editor with Dynamic Text Styling
+Pattern: Decorator(Structual)
+
+Description: This application is a text editor that allows users to add various functionalities (bold, italic, underline) to their text dynamically.
+
+Files:
+
+TextDecorator.java
+PlainText.java
+BoldTextDecorator.java
+ItalicTextDecorator.java
+UnderlineTextDEcorator.java
+Main.java
+Text.java
