@@ -1,0 +1,12 @@
+Explanation
+
+Task Class: Represents a task with attributes for description, start time, end time, and priority level.
+TaskFactory Class: A factory for creating Task objects.
+ScheduleManager Class: Manages all tasks using the Singleton pattern, ensuring only one instance exists. It handles adding, removing, viewing tasks, and checking for task conflicts.
+Main Class: Provides a console-based user interface for interacting with the ScheduleManager.
+
+Key Focus on Design Patterns
+
+Singleton Pattern: Ensures only one instance of ScheduleManager exists.
+Factory Pattern: Used to create Task objects.
+Observer Pattern: Not implemented explicitly here due to the simplicity of the console-based application. In a more complex application with a GUI, we could use the Observer pattern to notify users of task conflicts or updates.
