@@ -1,1 +1,13 @@
+Vehicle Factory
+Pattern: Factory
 
+Description: This application demonstrates a vehicle factory that can produce different types of vehicles (cars, bikes, trucks) based on user input.
+
+Files:
+
+Vehicle.java
+Car.java
+Bike.java
+Truck.java
+VehicleFactory.java
+Main.java
