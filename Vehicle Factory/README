@@ -1,5 +1,5 @@
 Vehicle Factory
-Pattern: Factory
+Pattern: Factory(Creational)
 
 Description: This application demonstrates a vehicle factory that can produce different types of vehicles (cars, bikes, trucks) based on user input.
 
